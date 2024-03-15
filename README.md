@@ -4,4 +4,5 @@ test
 data
 ### education
 so its updates only after readme updates, well
+or else, there is a timer to refresh
 ### experience
